@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Spaghetti Aglio e Olio",
+    "instructions": "Cook spaghetti in salted water until al dente. Heat olive oil in a pan and gently cook sliced garlic and chili flakes. Add the drained pasta with a little pasta water, toss well, and finish with parsley.",
+    "level": "Easy Peasy",
+    "ingredients": [
+      "spaghetti",
+      "olive oil",
+      "garlic",
+      "chili flakes",
+      "fresh parsley",
+      "salt"
+    ],
+    "image": "https://images.media-allrecipes.com/images/75131.jpg",
+    "duration": 20,
+    "isArchived": false
+  },
+  {
+    "title": "Chicken Curry",
+    "instructions": "Cook onion, garlic, and ginger until soft. Add curry powder and chicken pieces, then cook until browned. Pour in coconut milk and simmer until the chicken is cooked through. Serve with rice.",
+    "level": "Amateur Chef",
+    "ingredients": [
+      "chicken breast",
+      "onion",
+      "garlic",
+      "ginger",
+      "curry powder",
+      "coconut milk",
+      "rice",
+      "salt"
+    ],
+    "image": "https://images.media-allrecipes.com/images/75131.jpg",
+    "duration": 45,
+    "isArchived": false
+  },
+  {
+    "title": "Beef Wellington",
+    "instructions": "Sear the beef fillet and let it cool. Cover it with mushroom duxelles and wrap it in puff pastry. Brush with egg wash and bake until golden brown and cooked to your preferred doneness.",
+    "level": "UltraPro Chef",
+    "ingredients": [
+      "beef fillet",
+      "mushrooms",
+      "puff pastry",
+      "prosciutto",
+      "egg",
+      "mustard",
+      "butter",
+      "salt",
+      "black pepper"
+    ],
+    "image": "https://images.media-allrecipes.com/images/75131.jpg",
+    "duration": 120,
+    "isArchived": false
+  },
+  {
+    "title": "Caprese Salad",
+    "instructions": "Slice tomatoes and mozzarella. Arrange them on a plate with fresh basil leaves. Drizzle with olive oil and balsamic glaze, then season with salt and black pepper.",
+    "level": "Easy Peasy",
+    "ingredients": [
+      "tomatoes",
+      "fresh mozzarella",
+      "fresh basil",
+      "olive oil",
+      "balsamic glaze",
+      "salt",
+      "black pepper"
+    ],
+    "image": "https://images.media-allrecipes.com/images/75131.jpg",
+    "duration": 10,
+    "isArchived": false
+  },
+  {
+    "title": "Vegetable Stir Fry",
+    "instructions": "Heat oil in a large pan or wok. Add chopped vegetables and stir fry until tender-crisp. Add soy sauce, garlic, and ginger, then toss everything together and serve hot.",
+    "level": "Easy Peasy",
+    "ingredients": [
+      "broccoli",
+      "bell peppers",
+      "carrots",
+      "snap peas",
+      "soy sauce",
+      "garlic",
+      "ginger",
+      "vegetable oil"
+    ],
+    "image": "https://images.media-allrecipes.com/images/75131.jpg",
+    "duration": 25,
+    "isArchived": false
+  },
+  {
+    "title": "Mushroom Risotto",
+    "instructions": "Cook onion in butter until soft. Add arborio rice and toast briefly. Add warm stock little by little, stirring often, until the rice is creamy and tender. Stir in sauteed mushrooms and parmesan.",
+    "level": "Amateur Chef",
+    "ingredients": [
+      "arborio rice",
+      "mushrooms",
+      "onion",
+      "butter",
+      "vegetable stock",
+      "parmesan cheese",
+      "white wine",
+      "salt",
+      "black pepper"
+    ],
+    "image": "https://images.media-allrecipes.com/images/75131.jpg",
+    "duration": 50,
+    "isArchived": false
+  },
+  {
+    "title": "Lemon Herb Salmon",
+    "instructions": "Season salmon fillets with salt, pepper, lemon juice, garlic, and herbs. Bake until the fish flakes easily with a fork. Serve with vegetables or rice.",
+    "level": "Amateur Chef",
+    "ingredients": [
+      "salmon fillets",
+      "lemon",
+      "garlic",
+      "olive oil",
+      "parsley",
+      "dill",
+      "salt",
+      "black pepper"
+    ],
+    "image": "https://images.media-allrecipes.com/images/75131.jpg",
+    "duration": 30,
+    "isArchived": false
+  },
+  {
+    "title": "Chocolate Lava Cake",
+    "instructions": "Melt chocolate and butter together. Whisk eggs, sugar, and flour, then combine with the chocolate mixture. Pour into ramekins and bake until the edges are set but the center is still soft.",
+    "level": "UltraPro Chef",
+    "ingredients": [
+      "dark chocolate",
+      "butter",
+      "eggs",
+      "sugar",
+      "flour",
+      "salt",
+      "powdered sugar"
+    ],
+    "image": "https://images.media-allrecipes.com/images/75131.jpg",
+    "duration": 35,
+    "isArchived": false
+  }
+]
